@@ -1,0 +1,6 @@
+D:\prog\C#.Level1\Homework3\Exercise3\bin\Debug\Exercise3.exe.config
+D:\prog\C#.Level1\Homework3\Exercise3\bin\Debug\Exercise3.exe
+D:\prog\C#.Level1\Homework3\Exercise3\bin\Debug\Exercise3.pdb
+D:\prog\C#.Level1\Homework3\Exercise3\obj\Debug\Exercise3.csprojAssemblyReference.cache
+D:\prog\C#.Level1\Homework3\Exercise3\obj\Debug\Exercise3.exe
+D:\prog\C#.Level1\Homework3\Exercise3\obj\Debug\Exercise3.pdb
