@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Exercise2
+    //Тюмянцева Ирина
+    //Надо открыть последовательно числа от 1 до 9, для этого достаточно навести курсор на нужнуюю кнопку. 
 {
     static class Program
     {

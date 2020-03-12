@@ -7,6 +7,9 @@ using System.Windows.Forms;
 namespace Exercise1
 {
     static class Program
+
+        //Тюмянцева Ирина
+        //Цель - найти загаданное число. Ответ надо вводить в поле для ввода ответа
     {
         /// <summary>
         /// Главная точка входа для приложения.
